@@ -4,7 +4,6 @@
 ## Simple Array Sum
 - 題目
 ![](https://i.imgur.com/fowMjPs.png)
-:::spoiler
 ```c=
 /*
  * Complete the 'simpleArraySum' function below.
@@ -23,7 +22,6 @@ int simpleArraySum(int ar_count, int* ar) {
     return sum;
 }
 ```
-:::
 
 
 ## Compare the Triplets
@@ -241,24 +239,3 @@ char* timeConversion(char* s) {
 }
 ```
 
-## Mining (DP問題)
-- 題目
-
-```c=
-```
-
-
-
-
-
-
-
-
-
-
-
-## 
-- 題目
-
-```c=
-```
